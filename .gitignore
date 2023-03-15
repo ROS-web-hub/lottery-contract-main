@@ -1,0 +1,11 @@
+.gitattributes
+artifacts
+.idea/
+node_modules
+to_nuke
+cache
+.env
+yarn.lock
+coverage/
+coverage.json
+.solcover.js
